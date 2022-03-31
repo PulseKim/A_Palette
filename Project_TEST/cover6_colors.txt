@@ -1,0 +1,11 @@
+Color Dom - R: 129, G: 15, B: 6
+Color Ass - R: 240, G: 63, B: 8
+Color Acc - R: 190, G: 142, B: 86
+
+Below we got all colors
+Color 0is R: 207, G: 30, B: 3 and for CMYK, 0is C: 0, M: 0.855, y: 0.986 and k: 0.188 Area: 34.7%
+Color 2is R: 129, G: 15, B: 6 and for CMYK, 2is C: 0, M: 0.884, y: 0.953 and k: 0.494 Area: 46.2%
+Color 6is R: 239, G: 63, B: 8 and for CMYK, 6is C: 0, M: 0.736, y: 0.967 and k: 0.0627 Area: 7.8%
+Color 19is R: 190, G: 142, B: 86 and for CMYK, 19is C: 0, M: 0.253, y: 0.547 and k: 0.255 Area: 1.3%
+Color 20is R: 169, G: 101, B: 92 and for CMYK, 20is C: 0, M: 0.402, y: 0.456 and k: 0.337 Area: 0.663%
+Color 22is R: 188, G: 154, B: 128 and for CMYK, 22is C: 0, M: 0.181, y: 0.319 and k: 0.263 Area: 9.26%
